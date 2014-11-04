@@ -11,7 +11,7 @@ private:
 	string name;
 public:
 	void add_entity(){
-
+		cin >> attribute >> name;
 	}
 };
 
